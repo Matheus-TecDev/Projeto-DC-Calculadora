@@ -53,14 +53,20 @@ O objetivo foi reforçar a lógica de programação, manipulação de DOM e boas
 
 1. Clone o repositório:
 
-   git clone https://github.com/Matheus-TecDev/Projeto-DC-Calculadora.git
+    git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
 
-Acesse a pasta do projeto:
+    
+2. Acesse a pasta do projeto:
+    
+    cd letreco
 
-cd calculadora
-Abra o arquivo index.html no navegador
+    
+3. Abra o arquivo `index.html` no navegador
+    
+    *(ou utilize a extensão **Live Server** do VS Code para melhor experiência).*
+    
 
-(ou utilize a extensão Live Server do VS Code para melhor experiência).
+---
 
 🤝 Contribuição
 Sugestões de melhorias são muito bem-vindas!
