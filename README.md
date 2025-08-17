@@ -1,71 +1,85 @@
-**Tipo: `Estudo`**
+# 🧮 Calculadora JS
 
-**Status:**  💤 Standby (com **pretensão** de continuar)
+## 📖 Descrição
 
-**Responsável:** Matheus.tecnodev@gmail.com
+A **Calculadora JS** é um projeto desenvolvido como estudo para relembrar conceitos de **JavaScript puro**, **HTML5** e **CSS3**, após muito tempo utilizando apenas bibliotecas modernas como o ReactJS.  
 
-**Início:** 📅 `27/07/2025` 
+O objetivo foi reforçar a lógica de programação, manipulação de DOM e boas práticas de estilização com CSS Grid e variáveis CSS.  
 
-**Término:** 📅 `27/07/2025`
+---
 
-### 🎯 Objetivo
+## 🎮 Preview  
 
-> Projeto realizado com intenção de relembrar como funciona o JavaScript puro, depois de tanto tempo usando apenas componentes da biblioteca React.JS
-> 
+![Preview da Calculadora](images/preview.png)
 
-### 🛠️ Tecnologias e Ferramentas
+👉 [Acessar o projeto na Vercel](https://projeto-dc-calculadora.vercel.app/)
 
-| Área | Tecnologias/Ferramentas Utilizadas |
-| --- | --- |
-| **Frontend** | HTML5, CSS3 (custom properties), JavaScript (puro) |
-| **Design/UI** | Layout customizado com CSS Grid e variáveis CSS |
-| **Interatividade** | Manipulação de DOM com JavaScript puro |
-| **Ambiente** | VS Code, Live Server |
-| **Controle de versão** | GitHub |
+[![Deploy na Vercel](https://vercel.com/button)](https://projeto-dc-calculadora.vercel.app/)
 
-### 📦 Estrutura de Pastas
+---
 
-```bash
-📁 calculator/
-├── 📁 script/
-│   └── script.js               # Lógica principal da calculadora
-├── 📁 styles/
-│   └── styles.css              # Estilização com variáveis e responsividade
-├── .gitignore                  # Arquivos a serem ignorados no Git
-├── index.html                  # Estrutura principal do app
-└── README.md                   # Documentação do projeto
-```
+## ⚡ Funcionalidades
 
-### 📌 Funcionalidades e Escopo
+- Exibição de valor digitado no visor.  
+- Operações básicas: adição (+), subtração (−), multiplicação (×) e divisão (÷).  
+- Botão **AC** para limpar o visor.  
+- Botão **DEL** para apagar último caractere digitado.  
+- Botão **+/-** para inverter o sinal do número.  
+- Validação para impedir múltiplos símbolos seguidos.  
+- Interface responsiva com **CSS Grid**.  
+- Feedback visual nos botões (efeito hover).  
 
-A calculadora atualmente tem as seguintes funcionalidades implementadas:
+---
 
-- [x]  Exibição de valor digitado no visor (input dinâmico)
-- [x]  Operações básicas: adição (+), subtração (−), multiplicação (×) e divisão (÷)
-- [x]  Botão "AC" para limpar o visor
-- [x]  Botão "DEL" para apagar último caractere digitado
-- [x]  Botão "+/-" para inverter o sinal do número
-- [x]  Validação para impedir múltiplos símbolos seguidos
-- [x]  Interface responsiva com CSS Grid
-- [x]  Feedback visual nos botões ao passar o mouse (hover)
+## 📚 Conceitos praticados
 
-### 🧪 Testes
+- Manipulação de DOM com `addEventListener`.  
+- Estruturação de lógica usando funções puras.  
+- Validação de entradas e tratamento de erros.  
+- Uso de **variáveis CSS** para customização de layout.  
+- Testes manuais com `console.log()` para depuração.  
 
-Durante o desenvolvimento, utilizei principalmente **testes manuais** com o navegador e `console.log()` para:
+---
 
-- Verificar se os valores estavam sendo capturados corretamente ao clicar nos botões;
-- Entender o comportamento das funções e eventos (`addEventListener`);
-- Identificar erros de lógica ou digitação;
-- Analisar o retorno da função `eval()` e evitar resultados incorretos;
-- Validar se símbolos estavam sendo adicionados corretamente no input;
-- Garantir que o botão de deletar e inverter sinal estavam funcionando.
+## 🛠️ Tecnologias
 
-### 🚧 Problemas Encontrados e Soluções
+- **JavaScript** 
+- **HTML5**  
+- **CSS3**  
 
-Durante o projeto enfrentei alguns erros comuns, como:
+---
 
-- Digitação incorreta de propriedades CSS e funções JS;
-- Sintaxe mal fechada;
-- Problemas ao rodar o projeto no WSL2 via `Run Debugging`.
+## 🚀 Como usar
 
-Resolvi tudo usando **o chat do Copilot no VS Code** e **pesquisas no Google**.
+1. Clone o repositório:
+
+   git clone https://github.com/Matheus-TecDev/Projeto-DC-Calculadora.git
+
+Acesse a pasta do projeto:
+
+cd calculadora
+Abra o arquivo index.html no navegador
+
+(ou utilize a extensão Live Server do VS Code para melhor experiência).
+
+🤝 Contribuição
+Sugestões de melhorias são muito bem-vindas!
+
+Abra uma issue para relatar bugs ou propor ideias.
+
+Envie um Pull Request com suas contribuições.
+
+📌 Roadmap (versões futuras)
+Adicionar suporte para operações avançadas (potência, raiz, porcentagem).
+
+Melhorar a responsividade em dispositivos móveis.
+
+Implementar histórico de cálculos.
+
+Criar versão com tema dark/light.
+
+## 👨‍💻 Autores
+
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+📫 Contato: matheus.tecnodev@gmail.com
