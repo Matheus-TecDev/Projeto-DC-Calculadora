@@ -71,7 +71,7 @@ O objetivo foi reforçar a lógica de programação, manipulação de DOM e boas
 
 ---
 
-🤝 Contribuição
+## 🤝 Contribuição
 Sugestões de melhorias são muito bem-vindas!
 
 Abra uma issue para relatar bugs ou propor ideias.
@@ -80,7 +80,7 @@ Envie um Pull Request com suas contribuições.
 
 ---
 
-📌 Roadmap (versões futuras)
+## 📌 Roadmap (versões futuras)
 Adicionar suporte para operações avançadas (potência, raiz, porcentagem).
 
 Melhorar a responsividade em dispositivos móveis.
