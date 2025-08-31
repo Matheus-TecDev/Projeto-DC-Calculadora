@@ -53,31 +53,32 @@ O objetivo foi reforçar a lógica de programação, manipulação de DOM e boas
 
 1. Clone o repositório:
 
-    git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
+	```bash
+	git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
 
     
 2. Acesse a pasta do projeto:
     
+    ```bash
     cd letreco
 
     
 3. Abra o arquivo `index.html` no navegador
     
+    ```bash
     *(ou utilize a extensão **Live Server** do VS Code para melhor experiência).*
     
 
 ---
 
-## 🤝 Contribuição
+🤝 Contribuição
 Sugestões de melhorias são muito bem-vindas!
 
 Abra uma issue para relatar bugs ou propor ideias.
 
 Envie um Pull Request com suas contribuições.
 
----
-
-## 📌 Roadmap (versões futuras)
+📌 Roadmap (versões futuras)
 Adicionar suporte para operações avançadas (potência, raiz, porcentagem).
 
 Melhorar a responsividade em dispositivos móveis.
@@ -86,10 +87,9 @@ Implementar histórico de cálculos.
 
 Criar versão com tema dark/light.
 
----
-
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+
 📫 Contato: matheus.tecnodev@gmail.com
