@@ -78,6 +78,8 @@ Abra uma issue para relatar bugs ou propor ideias.
 
 Envie um Pull Request com suas contribuições.
 
+---
+
 📌 Roadmap (versões futuras)
 Adicionar suporte para operações avançadas (potência, raiz, porcentagem).
 
@@ -86,6 +88,8 @@ Melhorar a responsividade em dispositivos móveis.
 Implementar histórico de cálculos.
 
 Criar versão com tema dark/light.
+
+---
 
 ## 👨‍💻 Autores
 
