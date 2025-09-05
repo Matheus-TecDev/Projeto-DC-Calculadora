@@ -66,7 +66,7 @@ O objetivo foi reforçar a lógica de programação, manipulação de DOM e boas
 3. Abra o arquivo `index.html` no navegador
     
     ```bash
-    *(ou utilize a extensão **Live Server** do VS Code para melhor experiência).*
+    ou utilize a extensão **Live Server** do VS Code para melhor experiência
     
 
 ---
